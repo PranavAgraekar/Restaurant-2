@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Noodles",
+        "no of plates": 50,
+        "price": 120,
+        "discount": 20
+    },
+    {
+        "id": 2,
+        "name": "Idli",
+        "no of plates": 26,
+        "price": 25,
+        "discount": 0
+    },
+    {
+        "id": 3,
+        "name": "Maggie",
+        "no of plates": 30,
+        "price": 25,
+        "discount": 0
+    },
+    {
+        "id": 4,
+        "name": "Kheer",
+        "no of plates": 30,
+        "price": 80,
+        "discount": 10
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Tony Stark",
+        "phone": "9854125560",
+        "email": "tonystark@gmail.com",
+        "adress": "Stark Tower, New York",
+        "password": "jarvis",
+        "order_history": {
+            "04-30-2022": [
+                "Idli",
+                4,
+                100
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Steve Rogers",
+        "phone": "8854167933",
+        "email": "steverogers@gmail.com",
+        "adress": "brookelynn",
+        "password": "captainamerica",
+        "order_history": {}
+    },
+    {
+        "id": 3,
+        "name": "Monkey D. Luffy",
+        "phone": "9779025643",
+        "email": "luffy@gmail.com",
+        "adress": "Grand Line",
+        "password": "pirateking",
+        "order_history": {}
+    }
+]
